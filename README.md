@@ -1,2 +1,2 @@
 # PUF
-PUF M-Tech Project
+Contains C code to program the microcontroller
